@@ -1,8 +1,0 @@
-[workspace]
-members = [
-    "introductory",
-    "sorting_searching",
-    "dynamic_programming",
-    "problems"
-]
-resolver = "2"
