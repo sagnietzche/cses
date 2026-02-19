@@ -3,5 +3,17 @@
 version = 4
 
 [[package]]
-name = "cses"
+name = "dynamic_programming"
+version = "0.1.0"
+
+[[package]]
+name = "introductory"
+version = "0.1.0"
+
+[[package]]
+name = "problems"
+version = "0.1.0"
+
+[[package]]
+name = "sorting_searching"
 version = "0.1.0"
